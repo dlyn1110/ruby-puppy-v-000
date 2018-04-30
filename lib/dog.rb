@@ -13,7 +13,6 @@ class Dog
 
   def self.clear_all
     @@all.clear
-    binding.pry
   end
 
    def self.all
